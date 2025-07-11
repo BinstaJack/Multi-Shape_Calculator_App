@@ -1,0 +1,80 @@
+# 🧮 Multi-Shape Area & Perimeter Calculator
+
+This interactive Python app helps you calculate the **area** and **perimeter** of three basic shapes: **Rectangles**, **Squares**, and **Triangles**.
+
+---
+
+## 📌 Project Overview
+
+This project demonstrates your understanding of:
+- Writing and calling **functions**
+- Organizing Python code into **modules**
+- Importing custom modules
+- Using **exception handling** for robust code
+- Validating user input
+- Structuring a real-world Python project
+
+This is the perfect way to bring all your **HTML, CSS, JavaScript, and Python skills** together in a simple, practical tool.
+
+---
+
+## 🚀 How to Run the App
+
+1. **Download** or **clone** this project to your local machine.
+2. Open your terminal or command prompt.
+3. Navigate to the project directory:
+   ```bash
+   cd shape_calculator
+````
+
+4. Run the app:
+
+   ```bash
+   python main.py
+   ```
+5. Follow the prompts:
+
+   * Choose a shape:
+
+     * `1` → Rectangle
+     * `2` → Square
+     * `3` → Triangle
+   * Enter the required dimensions.
+   * Instantly see the **area** and **perimeter** for your chosen shape.
+
+---
+
+## 🗂️ Project Structure
+
+shape_calculator/
+├── calculator.py   # Functions for calculating areas & perimeters
+├── utils.py        # Helper function for input validation
+├── exceptions.py   # Custom exception for negative numbers
+├── main.py         # User interface and program entry point
+├── README.md       # Project guide and usage instructions
+
+## ⚙️ Features
+
+✅ **Supports 3 shapes:** Rectangle, Square, Triangle
+✅ Handles invalid input and non-numeric values gracefully
+✅ Raises clear errors if negative numbers are entered
+✅ Uses **custom exceptions**
+✅ Fully modular — easy to expand for more shapes
+
+---
+
+## 🎓 Skills Practiced
+
+✔️ Functions & modular programming
+✔️ Python **modules** & **imports**
+✔️ **Exception handling**
+✔️ User input validation
+✔️ Conditional logic and control flow
+✔️ Clear, maintainable code structure
+
+## ✨ Congratulations!
+
+You’ve built a real, functional Python app — combining what you learned about frontend and backend development.
+Keep learning, keep improving, and keep building!
+
+**Happy coding & good luck! 🚀🎓**
